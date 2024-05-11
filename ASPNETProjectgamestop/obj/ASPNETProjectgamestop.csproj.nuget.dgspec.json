@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stephensellers034/Projects/ASPNETProjectgamestop/ASPNETProjectgamestop/ASPNETProjectgamestop.csproj": {}
+    "/Users/stephensellers034/Desktop/repos/FinalProject/ASPNETProjectgamestop/ASPNETProjectgamestop/ASPNETProjectgamestop.csproj": {}
   },
   "projects": {
-    "/Users/stephensellers034/Projects/ASPNETProjectgamestop/ASPNETProjectgamestop/ASPNETProjectgamestop.csproj": {
+    "/Users/stephensellers034/Desktop/repos/FinalProject/ASPNETProjectgamestop/ASPNETProjectgamestop/ASPNETProjectgamestop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stephensellers034/Projects/ASPNETProjectgamestop/ASPNETProjectgamestop/ASPNETProjectgamestop.csproj",
+        "projectUniqueName": "/Users/stephensellers034/Desktop/repos/FinalProject/ASPNETProjectgamestop/ASPNETProjectgamestop/ASPNETProjectgamestop.csproj",
         "projectName": "ASPNETProjectgamestop",
-        "projectPath": "/Users/stephensellers034/Projects/ASPNETProjectgamestop/ASPNETProjectgamestop/ASPNETProjectgamestop.csproj",
+        "projectPath": "/Users/stephensellers034/Desktop/repos/FinalProject/ASPNETProjectgamestop/ASPNETProjectgamestop/ASPNETProjectgamestop.csproj",
         "packagesPath": "/Users/stephensellers034/.nuget/packages/",
-        "outputPath": "/Users/stephensellers034/Projects/ASPNETProjectgamestop/ASPNETProjectgamestop/obj/",
+        "outputPath": "/Users/stephensellers034/Desktop/repos/FinalProject/ASPNETProjectgamestop/ASPNETProjectgamestop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stephensellers034/.nuget/NuGet/NuGet.Config"
