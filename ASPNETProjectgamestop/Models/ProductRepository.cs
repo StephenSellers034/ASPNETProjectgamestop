@@ -18,6 +18,13 @@ namespace ASPNETProjectgamestop.Models
         {
             return _conn.Query<Product>("SELECT * FROM PRODUCTS;");
         }
+
+        public Product GetProduct(int id)
+        {
+            return _conn.QuerySingle<Product>("SELECT * FROM PRODUCTS WHERE PRODUCTID = @id",
+                new { id = id });
+        }
+
     }
 }
 
